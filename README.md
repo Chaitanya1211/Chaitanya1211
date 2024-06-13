@@ -5,7 +5,7 @@
 🛡️ With a keen interest in cybersecurity, I'm always exploring ways to ensure robust digital security.<br>
 🌐 Additionally, I enjoy crafting engaging web experiences, diving into both frontend and backend development.<br>
 🚀 Excited to collaborate on projects or discuss tech. Let's connect!<br>
-🔧 Tech Stack: Flutter, Node.js, MongoDB, HTML, CSS, JavaScript.<br>
+🔧 Tech Stack: Flutter, Node.js, MongoDB,React JS, HTML, CSS, JavaScript.<br>
 
 ### Socials 🌐
 
